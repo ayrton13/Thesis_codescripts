@@ -9,4 +9,4 @@ Tests employed for the first premise:
 
 Tests employed for the second premise:
 - Support Vector Machine (cubic)
-- Long Short Term Memory algorithm
+- Long Short Term Memory Model
